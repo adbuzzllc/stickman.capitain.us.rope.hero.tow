@@ -1,0 +1,16 @@
+{
+  "games": [
+    {
+      "name": "Super Runner",
+      "bundleId": "com.company.superrunner",
+      "imageUrl": "https://raw.githubusercontent.com/adbuzzllc/stickman.capitain.us.rope.hero.tow/refs/heads/master/1.png",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.company.superrunner"
+    },
+    {
+      "name": "Mega Puzzle",
+      "bundleId": "com.company.megapuzzle",
+      "imageUrl": "https://raw.githubusercontent.com/adbuzzllc/stickman.capitain.us.rope.hero.tow/refs/heads/master/2.png",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.company.megapuzzle"
+    }
+  ]
+}
