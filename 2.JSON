@@ -1,0 +1,16 @@
+{
+  "games": [
+    {
+      "name": "Indian Bike Gangster Driving",
+      "bundleId": "com.pfindianbik.gangster",
+      "imageUrl": "https://raw.githubusercontent.com/adbuzzllc/stickman.capitain.us.rope.hero.tow/refs/heads/master/4.png",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.pfindianbik.gangster"
+    },
+    {
+      "name": "Gangster Vegas Crime Simulator",
+      "bundleId": "com.Gangstercrime.ropeh.hero.sim",
+      "imageUrl": "https://raw.githubusercontent.com/adbuzzllc/stickman.capitain.us.rope.hero.tow/refs/heads/master/3.png",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.Gangstercrime.ropeh.hero.sim"
+    }
+  ]
+}
